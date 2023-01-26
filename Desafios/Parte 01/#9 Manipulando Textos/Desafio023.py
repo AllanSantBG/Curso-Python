@@ -1,0 +1,7 @@
+intNum = int(input('Digite um Número de 0 a 9999: '))
+strNum = (f'{intNum:0>4}')
+print('Analisando o Número', intNum)
+print('Unidade', strNum[3])
+print('Dezena', strNum[2])
+print('Centena', strNum[1])
+print('Milhar', strNum[0])

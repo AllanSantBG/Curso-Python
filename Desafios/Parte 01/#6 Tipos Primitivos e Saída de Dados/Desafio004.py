@@ -1,0 +1,6 @@
+value = input('Digite algo: ')
+print('O tipo primitivo é:', type(value))
+print('Tem somente letra:', value.isalpha())
+print('Tem somente número:', value.isnumeric())
+print('Tem letra ou número:', value.isalnum())
+print('Tem somente espaços:', value.isspace())

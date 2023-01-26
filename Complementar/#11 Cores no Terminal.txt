@@ -1,0 +1,27 @@
+FORMATO: \033[STYLE;TEXT;BACKm
+
+STYLE
+0 = Nenhum
+1 = Negrito
+4 = Sublinhado
+7 = Negativo
+
+TEXT
+30 = Branco
+31 = Vermelho
+32 = Verde
+33 = Amarelo
+34 = Azul
+35 = Roxo
+36 = Ciano
+37 = Cinza
+
+BACK
+40 = Branco
+41 = Vermelho
+42 = Verde
+43 = Amarelo
+44 = Azul
+45 = Roxo
+46 = Ciano
+47 = Cinza
